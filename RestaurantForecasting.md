@@ -408,7 +408,7 @@ p4_res_vs_vis <- ggplot() +
  plot(p4_res_vs_vis)
 ```
 
-![](RestaurantForecasting_files/figure-html/Reservations vs Visits-1.png)<!-- -->
+![](RestaurantForecasting_files/figure-html/Reservations_vs_Visits-1.png)<!-- -->
 We find:
 
 * Reservations made through the hpg system are many more than through air system. Air system seems to be dead between end of July and end of October 2016
